@@ -1,4 +1,3 @@
-# Portfolio.github.io
-My personal portfolio
+# Simple Portfolio
 You can visit the site by clicking:-
-http://pawaradarsh.me/simple-portfolio/
+https://pawaradarsh.tech/simple-portfolio/
